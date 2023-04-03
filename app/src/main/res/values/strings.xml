@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Basic Project</string>
+    <string name="app_name">Repositories Git Hub</string>
+    <string name="main_user">Usuário</string>
+    <string name="str_search">Search</string>
+    <string name="str_user">Usuário</string>
+    <string name="str_go_to">Sair</string>
+    <string name="msg_user_empty">É necessário informar um usuário.</string>
+    <string name="msg_empty_repository">Nenhum repositório localizado</string>
+    <string name="msg_not_found">Nenhum registro localizado</string>
+    <string name="shared_preferences_name">sharedPrefUser</string>
+    <string name="shared_preferences_key_user">shared_preferences_key_user</string>
 </resources>

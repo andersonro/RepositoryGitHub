@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Basic Project"
+rootProject.name = "Repository Git Hub"
 include ':app'
